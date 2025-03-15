@@ -1,15 +1,15 @@
 aardvark
 abyssinian
-adeliepenguin
-affenpinscher
+adelie penguin
+affen pinscher
 afghan hound
 african bush elephant
 african civet
 african clawed frog
 african forest elephant
-africanpalm civet
-africanpenguin
-african Tree Toad
+african palm civet
+african penguin
+african tree toad
 african wild dog
 ainu dog
 airedale terrier
@@ -25,10 +25,10 @@ american cockerspaniel
 american coonhound
 american eskimo dog
 american foxhound
-americanpit bull Terrier
-americanstaffordshire Terrier
-american Waterspaniel
-anatolianshepherd dog
+american pit bull terrier
+american staffordshire terrier
+american water spaniel
+anatolian shepherd dog
 angelfish
 ant
 anteater
@@ -36,32 +36,32 @@ antelope
 appenzeller dog
 arctic fox
 arctic hare
-arctic Wolf
+arctic wolf
 armadillo
 asian elephant
 asian giant hornet
-asianpalm civet
+asian palm civet
 asiatic black bear
 australian cattle dog
 australian kelpie dog
 australian mist
-australianshepherd
-australian Terrier
+australian shepherd
+australian terrier
 avocet
 axolotl
-aye Aye
+aye aye
 baboon
 bactrian camel
 badger
 balinese
-bandedpalm civet
+banded palm civet
 bandicoot
 barb
-barnowl
+barn owl
 barnacle
 barracuda
 basenji dog
-baskingshark
+basking shark
 basset hound
 bat
 bavarian mountain hound
@@ -70,45 +70,44 @@ bear
 bearded collie
 bearded dragon
 beaver
-bedlington Terrier
+bedlington terrier
 beetle
-bengal Tiger
+bengal tiger
 bernese mountain dog
 bichon frise
 binturong
 bird
-birdsofparadise
+birds of paradise
 birman
 bison
 black bear
-blackrhinoceros
-blackrussian Terrier
-black Widowspider
+black rhinoceros
+black russian terrier
+black widow spider
 bloodhound
 blue lacy dog
-blue Whale
+blue whale
 bluetick coonhound
 bobcat
 bolognese dog
 bombay
 bongo
 bonobo
-booby
 border collie
-border Terrier
-borneanorang-utan
+border terrier
+bornean orangutan
 borneo elephant
-boston Terrier
+boston terrier
 bottlenosed dolphin
 boxer dog
-boykinspaniel
-brazilian Terrier
+boykin spaniel
+brazilian terrier
 brown bear
 budgerigar
 buffalo
 bull mastiff
-bullshark
-bull Terrier
+bull shark
+bull terrier
 bulldog
 bullfrog
 bumble bee
@@ -118,7 +117,7 @@ butterfly
 butterfly fish
 caiman
 caiman lizard
-cairn Terrier
+cairn terrier
 camel
 canaan dog
 capybara
@@ -134,52 +133,52 @@ cesky fousek
 chameleon
 chamois
 cheetah
-chesapeake bayretriever
+chesapeake bay retriever
 chicken
 chihuahua
 chimpanzee
 chinchilla
 chinese crested dog
 chinook
-chinstrappenguin
+chinstrap penguin
 chipmunk
 chow chow
 cichlid
 clouded leopard
 clown fish
-clumberspaniel
+clumber spaniel
 coati
 cockroach
-collaredpeccary
+collared peccary
 collie
 common buzzard
 common frog
 common loon
-common Toad
+common toad
 coral
-cottontop Tamarin
+cottontop tamarin
 cougar
 cow
 coyote
 crab
-crab-eating macaque
+crab eating macaque
 crane
-crestedpenguin
+crested penguin
 crocodile
-crossriver gorilla
-curly coatedretriever
+cross river gorilla
+curly coated retriever
 cuscus
 cuttlefish
 dachshund
 dalmatian
 darwin's frog
 deer
-desert Tortoise
+desert tortoise
 deutsche bracke
 dhole
 dingo
 discus
-dobermanpinscher
+doberman pinscher
 dodo
 dog
 dogo Argentino
@@ -203,13 +202,13 @@ edible frog
 egyptian mau
 electric eel
 elephant
-elephantseal
-elephantshrew
-emperorpenguin
-emperor Tamarin
+elephant seal
+elephant shrew
+emperor penguin
+emperor tamarin
 emu
 english cockerspaniel
-englishshepherd
+english shepherd
 englishspringerspaniel
 entlebucher mountain dog
 epagneulpont Audemer
@@ -218,67 +217,66 @@ estrela mountain dog
 falcon
 fennec fox
 ferret
-fieldspaniel
-fin Whale
-finnishspitz
-fire-bellied Toad
+field spaniel
+fin whale
+finnish spitz
+fire bellied toad
 fish
 fishing cat
 flamingo
-flat coatretriever
+flat coat retriever
 flounder
 fly
-flyingsquirrel
+flying squirrel
 fossa
 fox
-fox Terrier
+fox terrier
 french bulldog
 frigatebird
 frilled lizard
 frog
-furseal
-galapagospenguin
-galapagos Tortoise
+fur seal
+galapagos penguin
+galapagos tortoise
 gar
 gecko
-gentoopenguin
-geoffroys Tamarin
+gentoo penguin
+geoffroys tamarin
 gerbil
-germanpinscher
-germanshepherd
+german pinscher
+german shepherd
 gharial
-giant African landsnail
+giant African land snail
 giant clam
-giantpanda bear
-giantschnauzer
+giant panda bear
+giant schnauzer
 gibbon
 gila monster
 giraffe
 glass lizard
-glow Worm
+glow worm
 goat
-golden lion Tamarin
-goldenoriole
-goldenretriever
+golden lion tamarin
+golden oriole
+golden retriever
 goose
 gopher
 gorilla
 grasshopper
 great dane
-great Whiteshark
-greaterswiss mountain dog
-green bee-eater
-greenland dog
+great white shark
+greater swiss mountain dog
+green bee eater
+green land dog
 grey mouse lemur
-greyreefshark
-greyseal
+grey reef shark
+grey seal
 greyhound
 grizzly bear
 grouse
-guinea fowl
-guineapig
+guinea pig
 guppy
-hammerheadshark
+hammer head shark
 hamster
 hare
 harrier
@@ -288,91 +286,89 @@ hercules beetle
 hermit crab
 heron
 highland cattle
-himalayan
 hippopotamus
 honey bee
-hornshark
+horn shark
 horned frog
 horse
 horseshoe crab
 howler monkey
 human
-humboldtpenguin
+humboldt penguin
 hummingbird
-humpback Whale
+humpback whale
 hyena
 ibis
 ibizan hound
 iguana
 impala
 indian elephant
-indianpalmsquirrel
-indianrhinoceros
-indianstar Tortoise
-indochinese Tiger
+indian palm squirrel
+indian rhinoceros
+indian star tortoise
+indochinese tiger
 indri
 insect
-irishsetter
-irish Wolfhound
-jackrussel
+irish setter
+irish wolfhound
+jack russel
 jackal
 jaguar
 japanese chin
 japanese macaque
-javanrhinoceros
+javan rhinoceros
 javanese
 jellyfish
 kakapo
 kangaroo
-keel billed Toucan
-killer Whale
+keel billed toucan
+killer whale
 king crab
-kingpenguin
-kingfisher
+king penguin
+king fisher
 kiwi
 koala
 komodo dragon
 kudu
 labradoodle
-labradorretriever
+labrador retriever
 ladybird
-leaf-Tailed gecko
+leaf tailed gecko
 lemming
 lemur
 leopard
 leopard cat
-leopardseal
-leopard Tortoise
+leopard seal
+leopard tortoise
 liger
 lion
 lionfish
-littlepenguin
+little penguin
 lizard
 llama
 lobster
-long-earedowl
+long earedowl
 lynx
-
-macaronipenguin
+macaroni penguin
 macaw
-magellanicpenguin
+magellanic penguin
 magpie
 maine coon
 malayan civet
-malayan Tiger
+malayan tiger
 maltese
 manatee
 mandrill
-mantaray
-marine Toad
+manta ray
+marine toad
 markhor
 marsh frog
-maskedpalm civet
+masked palm civet
 mastiff
 mayfly
 meerkat
 millipede
-minke Whale
+minke whale
 mole
 molly
 mongoose
@@ -388,207 +384,205 @@ mountain gorilla
 mountain lion
 mouse
 mule
-Neanderthal
-Neapolitan mastiff
-Newfoundland
-Newt
-Nightingale
-Norfolk Terrier
-Norwegian forest
-Numbat
-Nurseshark
-Ocelot
-Octopus
-Okapi
-Old englishsheepdog
-Olm
-Opossum
-Orang-utan
-Ostrich
-Otter
-Oyster
-Pademelon
-Panther
-Parrot
-Patas monkey
-Peacock
-Pekingese
-Pelican
-Penguin
-Persian
-Pheasant
-Pied Tamarin
-Pig
-Pika
-Pike
-Pink fairy Armadillo
-Piranha
-Platypus
-Pointer
-Poison dart frog
-Polar bear
-Pondskater
-Poodle
-Pool frog
-Porcupine
-Possum
-Prawn
-Proboscis monkey
-Puffer fish
-Puffin
-Pug
-Puma
-Purple emperor
-Puss moth
-Pygmy hippopotamus
-Pygmy marmoset
-Quail
-Quetzal
-Quokka
-Quoll
-Rabbit
-Raccoon
-Raccoon dog
-Radiated Tortoise
-Ragdoll
-Rat
-Rattlesnake
-Red knee Tarantula
-Redpanda
-Red Wolf
-Red-handed Tamarin
-Reindeer
-Rhinoceros
-River dolphin
-River Turtle
-Robin
-Rock hyrax
-Rockhopperpenguin
-Roseatespoonbill
-Rottweiler
-Royalpenguin
-Russian blue
-Sabre-Toothed Tiger
-Saint bernard
-Salamander
-Sand lizard
-Saola
-Scorpion
-Scorpion fish
-Sea dragon
-Sea lion
-Seaotter
-Seaslug
-Seasquirt
-Sea Turtle
-Sea Urchin
-Seahorse
-Seal
-Serval
-Sheep
-Shih Tzu
-Shrimp
-Siamese
-Siamese fighting fish
-Siberian
-Siberian husky
-Siberian Tiger
-Silver dollar
-Skunk
-Sloth
-Slow Worm
-Snail
-Snake
-Snapping Turtle
-Snowshoe
-Snowyowl
-Somali
-South china Tiger
-Spadefoot Toad
-Sparrow
-Spectacled bear
-Sperm Whale
-Spider monkey
-Spiny dogfish
-Sponge
-Squid
-Squirrel
-Squirrel monkey
-Sri lankan elephant
-Staffordshire bull Terrier
-Stag beetle
-Starfish
-Stellerssea cow
-Stick insect
-Stingray
-Stoat
-Stripedrocket frog
-Sumatran elephant
-Sumatranorang-utan
-Sumatranrhinoceros
-Sumatran Tiger
-Sun bear
-Swan
-Tang
-Tapanuliorang-utan
-Tapir
-Tarsier
-Tasmanian devil
-Tawnyowl
-Termite
-Tetra
-Thorny devil
-Tibetan mastiff
-Tiffany
-Tiger
-Tigersalamander
-Tigershark
-Tortoise
-Toucan
-Tree frog
-Tropicbird
-Tuatara
-Turkey
-Turkish Angora
-Uakari
-Uguisu
-Umbrellabird
-Vampire bat
-Vervet monkey
-Vulture
-Wallaby
-Walrus
-Warthog
-Wasp
-Water buffalo
-Water dragon
-Water Vole
-Weasel
-Welsh corgi
-West highland Terrier
-Western gorilla
-Western lowland gorilla
-Whaleshark
-Whippet
-White faced capuchin
-Whiterhinoceros
-White Tiger
-Wild boar
-Wildebeest
-Wolf
-Wolverine
-Wombat
-Woodlouse
-Woodpecker
-Woolly mammoth
-Woolly monkey
-Wrasse
-X-Ray Tetra
-Yak
-Yellow-eyedpenguin
-Yorkshire Terrier
-Zebra
-Zebrashark
-Zebu
-Zonkey
-Zorse
+neapolitan mastiff
+newt
+nightingale
+norfolk terrier
+norwegian forest
+numbat
+nurse shark
+ocelot
+octopus
+okapi
+old english sheep dog
+olm
+opossum
+orang utan
+ostrich
+otter
+oyster
+pademelon
+panther
+parrot
+patas monkey
+peacock
+pekingese
+pelican
+penguin
+persian
+pheasant
+pied tamarin
+pig
+pika
+pike
+pink fairy Armadillo
+piranha
+platypus
+pointer
+poison dart frog
+polar bear
+pondskater
+poodle
+pool frog
+porcupine
+possum
+prawn
+proboscis monkey
+puffer fish
+puffin
+pug
+puma
+purple emperor
+puss moth
+pygmy hippopotamus
+pygmy marmoset
+quail
+quetzal
+quokka
+quoll
+rabbit
+raccoon
+raccoon dog
+radiated tortoise
+rag doll
+rat
+rattlesnake
+red knee tarantula
+red panda
+red wolf
+red handed tamarin
+reindeer
+rhinoceros
+river dolphin
+river turtle
+robin
+rock hyrax
+rock hopper penguin
+roseate spoonbill
+rottweiler
+royal penguin
+russian blue
+sabre toothed tiger
+saint bernard
+salamander
+sand lizard
+saola
+scorpion
+scorpion fish
+sea dragon
+sea lion
+sea otter
+sea slug
+sea squirt
+sea turtle
+sea urchin
+seahorse
+seal
+serval
+sheep
+shih tzu
+shrimp
+siamese
+siamese fighting fish
+siberian
+siberian husky
+siberian tiger
+silver dollar
+skunk
+sloth
+slow worm
+snail
+snake
+snapping turtle
+snowshoe
+snowy owl
+somali
+south china tiger
+spadefoot toad
+sparrow
+spectacled bear
+sperm whale
+spider monkey
+spiny dogfish
+sponge
+squid
+squirrel
+squirrel monkey
+sri lankan elephant
+staffordshire bull terrier
+stag beetle
+starfish
+stellers sea cow
+stick insect
+stingray
+stoat
+striped rocket frog
+sumatran elephant
+sumatran orangutan
+sumatran rhinoceros
+sumatran tiger
+sun bear
+swan
+tang
+tapanuli orangutan
+tapir
+tarsier
+tasmanian devil
+tawny owl
+termite
+tetra
+thorny devil
+tibetan mastiff
+tiffany
+tiger
+tiger salamander
+tiger shark
+tortoise
+toucan
+tree frog
+tropic bird
+tuatara
+turkey
+turkish Angora
+uakari
+uguisu
+umbrellabird
+vampire bat
+vervet monkey
+vulture
+wallaby
+walrus
+warthog
+wasp
+water buffalo
+water dragon
+water vole
+weasel
+welsh corgi
+west highland terrier
+western gorilla
+western lowland gorilla
+whale shark
+whippet
+white faced capuchin
+white rhinoceros
+white tiger
+wild boar
+wildebeest
+wolf
+wolverine
+wombat
+woodlouse
+woodpecker
+woolly mammoth
+woolly monkey
+wrasse
+x ray tetra
+yak
+yellow eyed penguin
+yorkshire terrier
+zebra
+zebra shark
+zebu
+zonkey
+zorse
